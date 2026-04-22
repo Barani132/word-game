@@ -1,5 +1,4 @@
 #word game
-
 import random
 word_bank=['instagram','python','java','kotlin','javascript','hangman','programming','developer','function','variable']
 word=random.choice(word_bank)
